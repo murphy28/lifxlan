@@ -215,7 +215,7 @@ func (c *Client) ExportJSON() string {
 }
 
 // Devices returns the list of discovered devices
-func (c *Client) Devices() []Device {
+func (c *Client) GetDevices() []Device {
 	c.mu.Lock()
 	defer c.mu.Unlock()
 
