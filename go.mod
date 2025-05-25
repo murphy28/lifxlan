@@ -1,4 +1,4 @@
-module lifx-lib
+module github.com/murphy28/lifxlan
 
 go 1.22.2
 
