@@ -55,6 +55,8 @@ func main() {
 }
 ```
 
+For more detailed documentation, check out the [wiki](https://github.com/murphy28/lifxlan/wiki)!
+
 ### Supported Devices
 This library was built with standard LIFX bulbs in mind. I do not own any of the fancier LIFX devices, but support will come if I get the chance. All code was tested on the LIFX Color.
 
